@@ -50,7 +50,7 @@ echo -e "${negro}
 ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝"${blanco}
 }
 # ===============================================
-#           INSTALANDO SERVIDOR NGROK
+#        INSTALANDO SERVIDOR NGROK BY ARTURO
 # ===============================================
 Installation(){
 	if [ "${SYSTEM}" == "Android" ]; then
